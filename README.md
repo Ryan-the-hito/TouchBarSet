@@ -1,4 +1,4 @@
-# TouchBarSet
+# 👌TouchBarSet: A Config Set for Touch Bar on My M1 Mac
 
 This is a config set for Touch Bar on my M1 Mac.
 
